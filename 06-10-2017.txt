@@ -1,0 +1,12 @@
+LAboratorium: 06-10-2017
+Tworzenie Aplikacji Bazodanowych.
+
+Systemy kontorli wersji:
+
+dodawanie wersji, kontrola za pomoc¹ daty.
+wersjonowwanie indywidualnej pracy, a tek¿e prac zespo³owych
+
+http://wikizmsi.zut.edu.pl/wiki/TAB/LS
+http://git-scm.com/book/pl/v1
+http://wikizmsi.zut.edu.pl/uploads/c/c7/InstrukcjaGit.pdf
+
